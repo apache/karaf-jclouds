@@ -42,9 +42,9 @@ limitations under the License.
   </licenses>
 
   <scm>
-    <connection>scm:git:https://git-wip-us.apache.org/repos/asf/jclouds-karaf.git</connection>
-    <developerConnection>scm:git:https://git-wip-us.apache.org/repos/asf/jclouds-karaf.git</developerConnection>
-    <url>https://git-wip-us.apache.org/repos/asf?p=jclouds-karaf.git</url>
+    <connection>scm:git:https://gitbox.apache.org/repos/asf/jclouds-karaf.git</connection>
+    <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/jclouds-karaf.git</developerConnection>
+    <url>https://gitbox.apache.org/repos/asf?p=jclouds-karaf.git</url>
     <tag>HEAD</tag>
   </scm>
 
