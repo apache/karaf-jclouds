@@ -185,7 +185,7 @@ limitations under the License.
   <properties>
     <jdk.version>1.7</jdk.version>
     <aopalliance.bundle.version>1.0_5</aopalliance.bundle.version>
-    <bcprov.version>1.51</bcprov.version>
+    <bcprov.version>1.67</bcprov.version>
     <easymock.version>3.0</easymock.version>
     <felix.configadmin.version>1.8.0</felix.configadmin.version>
     <groovy.version>2.4.4</groovy.version>
