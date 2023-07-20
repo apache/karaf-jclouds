@@ -188,7 +188,7 @@ limitations under the License.
     <bcprov.version>1.51</bcprov.version>
     <easymock.version>3.0</easymock.version>
     <felix.configadmin.version>1.8.0</felix.configadmin.version>
-    <groovy.version>2.4.4</groovy.version>
+    <groovy.version>2.4.21</groovy.version>
     <gson.version>2.5</gson.version>
     <guava.version>18.0</guava.version>
     <guava.test.version>10.0</guava.test.version>
